@@ -9,3 +9,5 @@ or the [wiki](http://wiki.github.com/dbloete/ioctocat).
 Your [participation is welcome](https://github.com/dbloete/ioctocat/contributors).
 Feel free to fork, add missing features or
 [report issues](http://github.com/dbloete/ioctocat/issues) :)
+
+This is a repository test.
